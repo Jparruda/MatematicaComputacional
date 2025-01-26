@@ -7,5 +7,4 @@ def somatorioMenosMil(x : float, n : int) -> float:
 
 
 print(somatorioMenosMil(0.1, 100000))
-
 print(somatorioMenosMil(0.125, 80000))
